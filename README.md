@@ -33,7 +33,7 @@ structure of collision orbits continued from the L2 Lyapunov family and the poss
 <p align="center">
   <img src="figures/Fig_of_setup-1.png" width="85%">
 </p>
-<p align="center"><em>Figure of setup with rotating reference frame and dimensionless unnits.</em></p>
+<p align="center"><em>Figure of setup with rotating reference frame and dimensionless units</em></p>
 
 ---
 

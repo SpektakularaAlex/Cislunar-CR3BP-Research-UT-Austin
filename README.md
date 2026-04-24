@@ -77,7 +77,7 @@ from the L2 Lyapunov family.
 
 ---
 
-## Selected Results
+## Selected Figures
 
 <p align="center">
   <img src="figures/broucke_orbits.png" width="85%">

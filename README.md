@@ -63,7 +63,7 @@ from the L2 Lyapunov family.
 | **STM / Monodromy matrix** | Augmented ODE; Floquet multipliers for stability |
 | **Pseudo-arclength continuation** | Null-space tangent predictor + Newton corrector with arclength constraint |
 | **Invariant manifolds** | Eigenvector perturbation + forward/backward propagation |
-| **Poincaré sections** | x-axis slicing for homoclinic intersection search |
+| **Poincaré sections** | slicing method to investigate sections of the system by reducing the dimensionality |
 | **SymPy** | Analytical Jacobians for LC EOM and ∂C/∂U₀ |
 
 ---
@@ -114,4 +114,30 @@ reproduced as validation.</em></p>
 
 ---
 
-## Repository Structure
+---
+
+## References
+
+- R. A. Broucke, *Periodic Orbits in the Restricted Three-Body Problem with 
+  Earth-Moon Masses*, NASA TR 32-1168, 1968.
+- V. Szebehely, *Theory of Orbits*, Academic Press, 1967.
+- B. Kumar & A. Moreno, *Networks of periodic orbits in the Earth–Moon system 
+  through a regularized and symplectic lens*, AAS/AIAA 2025.
+- A. Celletti, *Basics of Regularization Theory*, Chaotic Worlds, 2006.
+- Koon, Lo, Marsden, Ross, *Dynamical Systems, the Three-Body Problem and 
+  Space Mission Design*, 2011.
+- R. A. Meyers, *Encyclopedia of Physical Science and Technology (Third Edition)*, Academic Press, 2003
+- M. Lo, *The InterPlanetary Superhighway and the Origins Program*, 2002
+- JPL NASA, periodic orbits CR3BP database, https://ssd.jpl.nasa.gov/tools/periodic\_orbits.html
+- A. Shahhosseini, Tien, MH. & D’Souza, K., *Poincare maps: a modern systematic approach toward obtaining effective sections*, 2023
+
+
+
+
+
+
+
+---
+
+> **Status:** Active development — figures and results updated continuously.  
+> Final cleanup and documentation post-submission May 2026.

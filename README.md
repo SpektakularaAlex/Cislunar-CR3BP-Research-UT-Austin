@@ -31,7 +31,7 @@ structure of collision orbits continued from the L2 Lyapunov family and the poss
 ## Setup
 
 <p align="center">
-  <img src="figures/Fig_of_setup.pdf" width="85%">
+  <img src="figures/Family_contin_through_coll_4.png" width="85%">
 </p>
 <p align="center"><em>Selected periodic orbits from Broucke's 1968 catalog, 
 reproduced as validation.</em></p>

@@ -97,7 +97,7 @@ from the L2 Lyapunov family.
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="figures/L2_lyapunov_collision.png" width="95%">
+      <img src="figures/Continuation_L2_Lyap_LC_to_cart_7.png" width="95%">
       <br><em>L2 Lyapunov family continued through collision with the Moon.</em>
     </td>
     <td align="center" width="50%">
@@ -106,6 +106,33 @@ from the L2 Lyapunov family.
       orbit.</em>
     </td>
   </tr>
+  
+  <tr>
+    <td align="center" width="50%">
+      <img src="figures/Manifolds_L1_Lyapunov_936_2.png" width="95%">
+      <br><em>Stable (blue) and unstable (red) manifolds of an L1 Lyapunov 
+      orbit</em>
+    </td>
+    <td align="center" width="50%">
+      <img src="figures/Manifolds_L1_Lyapunov_936_4.png" width="95%">
+      <br><em>Stable (blue) and unstable (red) manifolds of an L1 Lyapunov 
+      orbit.</em>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="50%">
+      <img src="figures/Manifolds_L2_Lyapunov_at_collision_LC_4.png" width="95%">
+      <br><em>Stable (blue) and unstable (red) manifolds of an L2 Lyapunov Levi Civita regularized 
+      collision orbit </em>
+    </td>
+    <td align="center" width="50%">
+      <img src="figures/Manifolds_L2_Lyapunov_at_collision_cart_3.5.png" width="95%">
+      <br><em>Stable (blue) and unstable (red) manifolds of an L2 Lyapunov 
+      collision orbit in cartesian coordinates.</em>
+    </td>
+  </tr>
+  
   <tr>
     <td align="center" width="50%">
       <img src="figures/Ejection_Collisions_for_git_quick.gif" width="95%">

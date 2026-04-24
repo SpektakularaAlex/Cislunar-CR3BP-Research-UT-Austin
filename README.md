@@ -101,14 +101,14 @@ from the L2 Lyapunov family.
       <br><em>L2 Lyapunov family continued through collision with the Moon.</em>
     </td>
     <td align="center" width="50%">
-      <img src="figures/manifolds_L1.png" width="95%">
+      <img src="figures/Manifolds_L1_Lyapunov_936_1.png" width="95%">
       <br><em>Stable (blue) and unstable (red) manifolds of an L1 Lyapunov 
       orbit.</em>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
-      <img src="figures/ejection_collisions.png" width="95%">
+      <img src="figures/Ejection_Collisions_for_git_quick.gif" width="95%">
       <br><em>Ejection-collision orbits found by sweeping initial velocity 
       directions at the collision point.</em>
     </td>

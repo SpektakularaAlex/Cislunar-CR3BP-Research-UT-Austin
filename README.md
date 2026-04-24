@@ -80,22 +80,19 @@ from the L2 Lyapunov family.
 ## Selected Figures
 
 <p align="center">
-  <img src="figures/broucke_orbits.png" width="85%">
+  <img src="figures/Animation_Continuation_through_collision_duo.gif" width="85%">
 </p>
-<p align="center"><em>Selected periodic orbits from Broucke's 1968 catalog, 
-reproduced as validation.</em></p>
+<p align="center"><em>Pseudo-arclength continuation of the H2 family in Levi Civita regularized coordinates allowing computation adn continuation through th $m_2$ singularity and then converted back to cartesian coordinates, coloured by Jacobi constant (energy).</em></p>
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="figures/continuation_cartesian.png" width="95%">
-      <br><em>Pseudo-arclength continuation of the H2 family in Cartesian 
-      coordinates, coloured by Jacobi constant.</em>
+      <img src="figures/LC_to_cart_plotting_brouck_fBD_263.png" width="95%">
+      <br><em>Selected periodic orbit from Broucke's 1968 catalog, reproduced as validation (BD 263 Lyapinov orbit).</em>
     </td>
     <td align="center" width="50%">
-      <img src="figures/continuation_LC.png" width="95%">
-      <br><em>Continuation through collision in Levi-Civita regularized 
-      coordinates.</em>
+      <img src="figures/m2_isolated_collision_orbit_1.png" width="95%">
+      <br><em>Isolated collision orbit showing how the trajectory passes through the moon.</em>
     </td>
   </tr>
   <tr>

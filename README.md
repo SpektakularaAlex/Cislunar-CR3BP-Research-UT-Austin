@@ -2,7 +2,7 @@
 
 Computational research into periodic orbits, Levi-Civita regularization, 
 pseudo-arclength continuation, and invariant manifold structure in the planar 
-Earth–Moon Circular Restricted Three-Body Problem (CR3BP). Will hopefully relate L2 Lyapunov collision orbits to homoclinic collision orbits.
+Earth–Moon Circular Restricted Three-Body Problem (CR3BP). Will hopefully relate L1 Lyapunov collision orbits to homoclinic collision orbits.
 
 Undergraduate research project, University of Texas at Austin, Spring 2026.  
 Supervisor: Dr. Luke Peterson.  
@@ -88,7 +88,7 @@ from the L2 Lyapunov family.
   <tr>
     <td align="center" width="50%">
       <img src="figures/LC_to_cart_plotting_brouck_fBD_263.png" width="95%">
-      <br><em>Selected periodic orbit from Broucke's 1968 catalog, reproduced as validation (BD 263 Lyapinov orbit).</em>
+      <br><em>Selected periodic orbit from Broucke's 1968 catalog, reproduced as validation (BD 263 Lyapunov orbit).</em>
     </td>
     <td align="center" width="50%">
       <img src="figures/m2_isolated_collision_orbit_1.png" width="95%">
@@ -130,6 +130,38 @@ from the L2 Lyapunov family.
       <img src="figures/Manifolds_L2_Lyapunov_at_collision_cart_3.5.png" width="95%">
       <br><em>Stable (blue) and unstable (red) manifolds of an L2 Lyapunov 
       collision orbit in cartesian coordinates.</em>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="50%">
+      <img src="figures/traj_from_angles_A_finer_1.png" width="95%">
+      <br><em>Homoclinic orbit found from L2 Lyapunov collision orbit at intersection A (see above figure).</em>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="50%">
+      <img src="figures/traj_from_angles_A_finer_1.png" width="95%">
+      <br><em>Homoclinic orbit found from L2 Lyapunov collision orbit at intersection A (see above figure).</em>
+    </td>
+    <td align="center" width="50%">
+      <img src="figures/traj_from_angles_E_finer_1.png" width="95%">
+      <br><em>Homoclinic orbit found from L2 Lyapunov collision orbit at intersection A (see above figure)</em>
+    </td>
+  </tr>
+  
+
+
+  
+  <tr>
+    <td align="center" width="50%">
+      <img src="figures/Homoclini_A_rough.png" width="95%">
+      <br><em>Homoclinic orbit found at intersection of stable and unstable manifolds of an L1 Lyapunov orbit with energy matching that of Broucke's BD 263 orbit.</em>
+    </td>
+    <td align="center" width="50%">
+      <img src="figures/Homoclini_B_finer.png" width="95%">
+      <br><em>Homoclinic orbit found at another intersection of stable and unstable manifolds of an L1 Lyapunov orbit with energy matching that of Broucke's BD 263 orbit showing how Broucke's BD 263 orbit in fact is a homoclinic- and thus a cycler orbit related to an L1 Lyapunov orbit.</em>
     </td>
   </tr>
   

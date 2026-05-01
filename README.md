@@ -47,6 +47,8 @@ Newton-based single-shooting to find and correct initial conditions yielding
 periodic orbits. Validated against Broucke's 1968 orbit catalog. Implemented for 
 both Cartesian and Levi-Civita regularized coordinates.
 
+
+
 ### 2. Pseudo-arclength continuation
 Predictor-corrector method tracing families of periodic orbits continuously through 
 parameter space — including through collision events in regularized coordinates. 
@@ -82,7 +84,8 @@ from the L2 Lyapunov family.
 <p align="center">
   <img src="figures/Animation_Continuation_through_collision_duo.gif" width="85%">
 </p>
-<p align="center"><em>Pseudo-arclength continuation of the H2 family in Levi Civita regularized coordinates allowing computation adn continuation through th $m_2$ singularity and then converted back to cartesian coordinates, coloured by Jacobi constant (energy).</em></p>
+
+*Pseudo-arclength continuation of the H2 family in Levi–Civita regularized coordinates allowing computation and continuation through the $m_2$ singularity, then converted back to Cartesian coordinates and coloured by the Jacobi constant (energy).*
 
 <table>
   <tr>
@@ -135,19 +138,47 @@ from the L2 Lyapunov family.
   
   <tr>
     <td align="center" width="50%">
-      <img src="figures/traj_from_angles_A_finer_1.png" width="95%">
-      <br><em>Homoclinic orbit found from L2 Lyapunov collision orbit at intersection A (see above figure).</em>
+      <img src="figures/Crossing_clarification-1.png" width="95%">
+      <br><em>x, ẋ Poincaré section at y = 0 for L2 Lyapunov collision orbit showing the intersection points where the stable and unstable manifolds intersect, with intersections labeled A to G.</em>
+    </td>
+    <td align="center" width="50%">
+      <img src="figures/traj_from_angles_C_finer_1.png" width="95%">
+      <br><em> Homoclinic orbit found from L2 Lyapunov collision orbit at intersection C (see left figure)</em>
     </td>
   </tr>
   
   <tr>
     <td align="center" width="50%">
       <img src="figures/traj_from_angles_A_finer_1.png" width="95%">
-      <br><em>Homoclinic orbit found from L2 Lyapunov collision orbit at intersection A (see above figure).</em>
+      <br><em>Homoclinic orbit found from L2 Lyapunov collision orbit at intersection A (see above figure)</em>
     </td>
     <td align="center" width="50%">
       <img src="figures/traj_from_angles_E_finer_1.png" width="95%">
       <br><em>Homoclinic orbit found from L2 Lyapunov collision orbit at intersection A (see above figure)</em>
+    </td>
+  </tr>
+
+
+  
+  <tr>
+    <td align="center" width="50%">
+      <img src="figures/L1_Lyap_lp_cart_3.png" width="95%">
+      <br><em>Homoclinic orbit found from L2 Lyapunov collision orbit at intersection A (see above figure)Stable and unstable manifolds propogated from L2 Lyapunov orbit with energy matching Broucke's BD 263 orbit.</em>
+    </td>
+    <td align="center" width="50%">
+      <img src="figures/L1_Lyap_lp_LC_3.png" width="95%">
+      <br><em>Homoclinic orbit found from L2 Lyapunov collision orbit at intersection A (see above figure)Stable and unstable manifolds propogated from L2 Lyapunov orbit with energy matching Broucke's BD 263 orbit, in Levi Civita regularized variables.</em>
+    </td>
+  </tr>
+  
+  <tr>
+    <td align="center" width="50%">
+      <img src="figures/x_dx_L1_2.png" width="95%">
+      <br><em> x, ẋ Poincaré section at y = 0 for the above plotted stable and unstable manifolds.</em>
+    </td>
+    <td align="center" width="50%">
+      <img src="figures/L1_Lyap_lp_LC_3.png" width="95%">
+      <br><em> .</em>
     </td>
   </tr>
   

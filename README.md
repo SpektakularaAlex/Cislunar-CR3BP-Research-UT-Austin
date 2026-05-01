@@ -177,8 +177,8 @@ from the L2 Lyapunov family.
       <br><em> x, ẋ Poincaré section at y = 0 for the above plotted stable and unstable manifolds.</em>
     </td>
     <td align="center" width="50%">
-      <img src="figures/L1_Lyap_lp_LC_3.png" width="95%">
-      <br><em> .</em>
+      <img src="figures/Homoclini_B_rough_3D.png" width="95%">
+      <br><em>x, y, ẋ and u1, u2, u1' plot of homoclinic orbit found at intersection of stable and unstable manifolds of an L1 Lyapunov orbit with energy matching that of Broucke's BD 263 orbit.</em>
     </td>
   </tr>
   
